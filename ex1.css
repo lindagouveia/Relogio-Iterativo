@@ -1,0 +1,44 @@
+body{
+
+    background: rgb(26, 189, 230);
+
+}
+
+header{
+
+    color: white;
+    text-align: center;
+    
+    
+}
+
+section {
+
+    background: white;
+    border-radius: 5px;
+    padding: 15px;
+    width: 500px;
+    /* PARA CENTRALIZAR NA TELA: */
+    margin: auto; 
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.705);
+}
+
+div{
+
+    text-align: center;
+    padding: 10px;
+}
+
+footer{
+
+    color: white;
+    text-align: center;    
+    font-style: italic;
+}
+
+#imagem{
+
+    width: 250px;  
+    height: 250px;
+    border-radius: 50%;
+}
